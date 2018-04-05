@@ -30,3 +30,5 @@ becomes
 	* [x] Do some work.
 
 and vice versa.
+
+If no checkbox exists on the current line, an empty checkbox will be created.
